@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 5e87c784f46a2144e8c1e3d62c8b2fe3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stage1: {fileID: 4666772966369612685, guid: 2fd64f23c9af1984d88c73b17f561faa,
+      type: 3}
+  - stage2: {fileID: 4886826871449752004, guid: e6455d48b438493438d4a56d6bc9015e,
+      type: 3}
+  - stage3: {fileID: 4269155846170759636, guid: a742df3908ffaa344a7f6eac276b5cac,
+      type: 3}
+  - stage4: {fileID: 1702186912503315144, guid: 741d6f3e8a1c1a544a80084e5543395e,
+      type: 3}
+  - player: {fileID: 739307634173409130, guid: 4b43a0d070323ac48a88050a6f6ceefb, type: 3}
+  - enemyA1: {instanceID: 0}
+  - enemyA8: {instanceID: 0}
+  - enemyA9: {instanceID: 0}
+  - enemyB2: {instanceID: 0}
+  - enemyB3: {instanceID: 0}
+  - enemyB4: {instanceID: 0}
+  - enemyB5: {instanceID: 0}
+  - enemyB6: {instanceID: 0}
+  - enemyB7: {instanceID: 0}
+  - enemyB10: {instanceID: 0}
+  - enemyB11: {instanceID: 0}
+  - enemyB12: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
